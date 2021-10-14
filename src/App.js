@@ -19,6 +19,7 @@ function App() {
           <AddTransaction />
         </div>
       </GlobalProvider>
+    <div className='footer'>Developed by Bilal-Gujjar</div>
       </div>
   );
 }
